@@ -34,7 +34,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: test1
+  name: urutoramarin2000
   email: urutoramarin2000@sjtu.edu.cn # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -88,7 +88,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: # [light | dark]
+theme_mode: light 
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url

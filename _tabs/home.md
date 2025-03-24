@@ -1,5 +1,5 @@
 ---
-layout: archives
+layout: home
 icon: fas fa-archive
-order: 2
+order: 1
 ---
