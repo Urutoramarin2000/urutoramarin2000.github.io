@@ -1,5 +1,5 @@
 ---
-layout: home
+title: About Me
 icon: fas fa-stream
 order: 1
 ---
@@ -12,6 +12,9 @@ order: 1
 目前，我正在与一位来自John Hopkins University的同学合作，致力于改进长序列任务中的Diffusion Policy，计划将成果投稿至CoRL会议。我始终对探索新技术、解决复杂问题充满热情，并希望通过不断学习和实践，推动相关领域的创新与发展。
 
 欢迎通过以下方式联系我：
+
 E-mail：urutoramarin2000@sjtu.edu.cn
-G-mail: urutoramarin12@gmail.com
-GitHub: https://github.com/Urutoramarin2000
+
+G-mail：urutoramarin12@gmail.com
+
+GitHub：https://github.com/Urutoramarin2000
