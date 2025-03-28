@@ -31,6 +31,7 @@ ___
 - 成功完成sim2real，在大质量双轮足机器人平台上部署了强化学习运动控制，实现坑洼路面稳定通过。
 
 **项目链接**：[Wheeled-RL](https://github.com/Urutoramarin2000/wheeled_rl)
+![人形机器人](../assets/img/test.jpg)
 
 ___
 
@@ -46,10 +47,11 @@ ___
 
 
 **项目链接**：[Quest3_teleop_record](https://github.com/Urutoramarin2000/quest3_teleop_record)
-
+![人形机器人](../assets/img/test.jpg)
 ___
 ## **基于扩散模型与 3D 高斯的文本-3D 模型生成（毕业设计）**
 基于 transformer 的 3d 高斯生成模型，结合 SDS 的形状优化与扩散模型的texture 优化来完成基于文本 - 高质量3D模型的生成。
 
 **成果**：
 - 结合基于tranfromer的快速3D模型生成与基于SDS的模型精细优化，完成告快速高质量3D模型生成。
+![人形机器人](../assets/img/test.jpg)
