@@ -88,7 +88,7 @@ pageviews:
 #     light — Use the light color scheme
 #     dark — Use the dark color scheme
 #
-theme_mode: light 
+theme_mode: light
 
 # The CDN endpoint for media resources.
 # Notice that once it is assigned, the CDN url
@@ -150,8 +150,8 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "urutoramarin2000.github.io"
-# baseurl: ""
+# baseurl: "urutoramarin2000.github.io"
+baseurl: ""
 # ------------ The following options are not recommended to be modified ------------------
 
 kramdown:
