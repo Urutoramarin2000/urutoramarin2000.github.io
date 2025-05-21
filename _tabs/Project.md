@@ -16,7 +16,7 @@ ___
 - 使用特定夹爪完成了类UMI数据采集与真机模型部署
 - 提高Diffusion Policy 面对重复奇异性任务与长序列任务的成功率
   
-**项目链接**：[To be release]
+**项目链接**：[MGDP](https://memoryguideddp.github.io/)
 
 ![Pipeline](../assets/img/pipeline.jpg)
 <div style="display: flex; gap: 10px;">
