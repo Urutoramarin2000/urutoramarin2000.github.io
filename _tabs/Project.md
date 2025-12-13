@@ -4,7 +4,7 @@ order: 2
 ---
 
 ___
-## **1，Memory Guided Diffusion Policy for Robot Learning（CoRL2025二作在投）**
+## **1，Memory Guided Diffusion Policy for Robot Learning（currently working on）**
 针对机器人模仿学习中重复任务与长序列任务，提出了一种通过一个预训练的ViT进行关键帧判断，融合记忆关键帧来增强Diffusion Policy的方法。
 
 **我的贡献：**
@@ -18,7 +18,7 @@ ___
   
 **项目链接**：[MGDP](https://memoryguideddp.github.io/)
 
-![Pipeline](../assets/img/pipeline.jpg)
+![Pipeline]({{ "/assets/img/pipeline.jpg" | relative_url }})
 <div style="display: flex; gap: 10px;">
   <video width="400" height="500" controls autoplay muted>
     <source src="../assets/video/umi2.webm" type="video/webm">
@@ -106,4 +106,4 @@ ___
 
 **成果**：
 - 结合基于tranfromer的快速3D模型生成与基于SDS的模型精细优化，完成告快速高质量3D模型生成。
-![人形机器人](../assets/img/text23D.jpg)
+![text23D]({{ "/assets/img/text23D.jpg" | relative_url }})
