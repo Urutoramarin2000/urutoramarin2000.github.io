@@ -3,8 +3,17 @@ icon: fas fa-archive
 order: 2
 ---
 
+<!-- Quick Navigation -->
+<div style="margin-bottom: 2rem; display: flex; flex-wrap: wrap; gap: 10px; align-items: center;">
+  <span style="font-weight: bold; font-size: 1.1rem;"><i class="fas fa-list-ul"></i> 快速导航:</span>
+  <a href="#mgdp" style="background-color: var(--button-bg); color: var(--btn-back-totop-color); padding: 5px 15px; border-radius: 20px; text-decoration: none; border: 1px solid var(--main-border-color);">1. MGDP Robot Learning</a>
+  <a href="#humanoid-rl" style="background-color: var(--button-bg); color: var(--btn-back-totop-color); padding: 5px 15px; border-radius: 20px; text-decoration: none; border: 1px solid var(--main-border-color);">2. 人形/双轮足 RL</a>
+  <a href="#vr-teleop" style="background-color: var(--button-bg); color: var(--btn-back-totop-color); padding: 5px 15px; border-radius: 20px; text-decoration: none; border: 1px solid var(--main-border-color);">3. Quest3 VR 遥操作</a>
+  <a href="#text23d" style="background-color: var(--button-bg); color: var(--btn-back-totop-color); padding: 5px 15px; border-radius: 20px; text-decoration: none; border: 1px solid var(--main-border-color);">4. 文本-3D 模型生成</a>
+</div>
+
 ___
-## **1，Memory Guided Diffusion Policy for Robot Learning（currently working on）**
+## **1，Memory Guided Diffusion Policy for Robot Learning（currently working on）** {#mgdp}
 针对机器人模仿学习中重复任务与长序列任务，提出了一种通过一个预训练的ViT进行关键帧判断，融合记忆关键帧来增强Diffusion Policy的方法。
 
 **我的贡献：**
@@ -38,7 +47,7 @@ ___
 </div>
 
 ___
-## **2，人形/双轮足机器人强化学习控制与部署**
+## **2，人形/双轮足机器人强化学习控制与部署** {#humanoid-rl}
 针对人形/双轮足机器人在高纬的运动控制问题，搭建isaacgym仿真器环境，使用强化学习PPO算法在仿真器中进行运动policy训练，提升其稳定性和适应性。
 
 **我的贡献**：
@@ -75,7 +84,7 @@ ___
 
 ___
 
-## **3，基于Quest3的机械臂VR无线遥操作**
+## **3，基于Quest3的机械臂VR无线遥操作** {#vr-teleop}
 基于Vuer，使用Quest3，实现机械臂的VR远程Teleop。
 
 **我的贡献：**
@@ -101,7 +110,7 @@ ___
 </div>
 
 ___
-## **4，基于扩散模型与 3D 高斯的文本-3D 模型生成（毕业设计）**
+## **4，基于扩散模型与 3D 高斯的文本-3D 模型生成（毕业设计）** {#text23d}
 基于 transformer 的 3d 高斯生成模型，结合 SDS 的形状优化与扩散模型的texture 优化来完成基于文本 - 高质量3D模型的生成。
 
 **成果**：
